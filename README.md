@@ -25,4 +25,5 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 Deployed Application: https://ksingh-1.github.io/03-JavaScript-Password-Generator
+
 GitHub Repository: https://github.com/ksingh-1/03-JavaScript-Password-Generator
