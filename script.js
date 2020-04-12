@@ -53,3 +53,6 @@ function generatePass() {
       }
     }
   }
+
+  document.getElementById("password").innerHTML=resultPass;
+}
